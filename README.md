@@ -4,4 +4,4 @@ Space Calculator is an iOS App which runs on iOS10+ devices (iPhone 5S and later
 
 Demo: 
 
-[![Watch the video]()](https://raw.githubusercontent.com/luciferreeves/space-calculator/master/demo.mov)
+[![Watch the video](https://raw.githubusercontent.com/luciferreeves/space-calculator/master/demopic.png)](https://raw.githubusercontent.com/luciferreeves/space-calculator/master/demo.mov)
